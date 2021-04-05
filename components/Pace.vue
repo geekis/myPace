@@ -1,6 +1,7 @@
 <template>
   <div>
     <div class="container justify-center">
+      <h2>Pace</h2>
       <table class="min-w-full divide-y divide-gray-200">
         <thead class="bg-gray-50">
           <tr>
