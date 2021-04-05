@@ -1,6 +1,6 @@
 <template>
-    <div class="flex justify-center justify-items-center w-screen h-16">
-        <ul class="pl-0">
+    <div class="flex justify-center justify-items-center w-screen h-16 flex-col sm:flex-row">
+        <ul class="pl-0 ">
             <li class="inline-block p-4">
                 <nuxt-link exact to="/">Home</nuxt-link>
             </li>
@@ -15,6 +15,9 @@
             </li>
             <li class="inline-block p-4">
                 <nuxt-link to="/training-plans">Training Plans</nuxt-link>
+            </li>
+            <li class="inline-block p-4">
+                <nuxt-link to="/me">Me</nuxt-link>
             </li>
         </ul>
     </div>

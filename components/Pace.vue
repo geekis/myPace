@@ -1,8 +1,9 @@
 <template>
   <div>
     <div class="container mx-auto">
-      <div class="">
+      
       <h2>Pace WOW</h2>
+      <div class="max-w-full overflow-scroll">
       <table class="min-w-full divide-y divide-gray-200 max-h-screen table-fixed">
         <thead class="bg-gray-50">
           <tr>
